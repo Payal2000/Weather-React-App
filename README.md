@@ -37,4 +37,4 @@ $ yarn start
 <hr />
 
 ### Demo
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/batman-thinking.gif">
+<img align="center" alt="zerotwo-pic" height="500" style="border-radius:80px;" src="https://github.com/Payal2000/Weather-React-App/blob/main/Demo%20(1).gif">
