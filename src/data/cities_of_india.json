@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Delhi", 
+    "latitude": "28.6600", 
+    "longitude": "77.2300", 
+    "region": "Delhi", 
+    "population": "29617000" 
+    
+  }, 
+  {
+    "id": 2,
+    "name": "Mumbai", 
+    "latitude": "18.9667", 
+    "longitude": "72.8333", 
+    "region": "Maharashtra", 
+    "population": "23355000"
+    
+  }, 
+  {
+    "id": 3,
+    "name": "Kolkāta", 
+    "latitude": "22.5411", 
+    "longitude": "88.3378", 
+    "region": "West Bengal",
+    "population": "17560000"
+    
+  }, 
+  {
+    "id": 4,
+    "name": "Bangalore", 
+    "latitude": "12.9699", 
+    "longitude": "77.5980", 
+    "region": "Karnataka",
+    "population": "13707000"
+    
+  }, 
+  {
+    "id": 5,
+    "name": "Chennai", 
+    "latitude": "13.0825", 
+    "longitude": "80.2750", 
+    "region": "Tamil Nadu",
+    "population": "11324000"
+  }, 
+  {
+    "id": 6,
+    "name": "Hyderābād", 
+    "latitude": "17.3667", 
+    "longitude": "78.4667", 
+    "region": "Andhra Pradesh",
+    "population": "9746000"
+    
+  }, 
+  {
+    "id": 7,
+    "name": "Pune", 
+    "latitude": "18.5196", 
+    "longitude": "73.8553", 
+    "country": "India", 
+    "region": "Maharashtra",
+    "population": "7764000"
+  }, 
+  {
+    "id": 8,
+    "name": "Ahmedabad", 
+    "latitude": "23.0300", 
+    "longitude": "72.5800", 
+    "region": "Gujarat",
+    "population": "7410000"
+    
+  }, 
+  {
+    "id": 9,
+    "name": "Sūrat", 
+    "latitude": "21.1700", 
+    "longitude": "72.8300", 
+    "region": "Gujarat",
+    "population": "5807000"
+    
+  }, 
+  {
+    "id": 10,
+    "name": "Lucknow", 
+    "latitude": "26.8470", 
+    "longitude": "80.9470", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Uttar Pradesh", 
+    "capital": "admin", 
+    "population": "3382000", 
+    "population_proper": "3382000"
+  }, 
+  {
+    "id": 11,
+    "name": "Jaipur", 
+    "latitude": "26.9167", 
+    "longitude": "75.8667", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Rājasthān", 
+    "capital": "admin", 
+    "population": "3073350", 
+    "population_proper": "3073350"
+  }, 
+  {
+    "id": 13,
+    "name": "Cawnpore", 
+    "latitude": "26.4725", 
+    "longitude": "80.3311", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Uttar Pradesh", 
+    "capital": "", 
+    "population": "2701324", 
+    "population_proper": "2701324"
+  }, 
+  {
+    "id": 14,
+    "name": "Mirzāpur", 
+    "latitude": "25.1500", 
+    "longitude": "82.5800", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Uttar Pradesh", 
+    "capital": "", 
+    "population": "2496970", 
+    "population_proper": "2496970"
+  }, 
+  {
+    "id": 15,
+    "name": "Nāgpur", 
+    "latitude": "21.1539", 
+    "longitude": "79.0831", 
+    "region": "Maharashtra",
+    "population": "2405665"
+  }, 
+  {
+    "id": 16,
+    "name": "Ghāziābād", 
+    "latitude": "28.6667", 
+    "longitude": "77.4167", 
+    "region": "Uttar Pradesh",
+    "population": "2381452"
+    
+  }, 
+  {
+    "id": 17,
+    "name": "Indore", 
+    "latitude": "22.7206", 
+    "longitude": "75.8472", 
+    "region": "Madhya Pradesh",
+    "population": "2201927"
+  }, 
+  {
+    "id": 18,
+    "name": "Vadodara", 
+    "latitude": "22.3000", 
+    "longitude": "73.2000", 
+    "region": "Gujarat",
+    "population": "2065771"
+    
+  }, 
+  {
+    "id": 19,
+    "name": "Vishākhapatnam", 
+    "latitude": "17.7333", 
+    "longitude": "83.3167", 
+    "region": "Andhra Pradesh",
+    "population": "2035922"
+    
+  }, 
+  {
+    "id": 20,
+    "name": "Bhopāl", 
+    "latitude": "23.2500", 
+    "longitude": "77.4167", 
+    "region": "Madhya Pradesh",
+    "population": "1883381"
+    
+  }, 
+  {
+    "id": 21,
+    "name": "Chinchvad", 
+    "latitude": "18.6278", 
+    "longitude": "73.8131", 
+    "region": "Maharashtra",
+    "population": "1729320"
+  }, 
+  {
+    "id": 22,
+    "name": "Patna", 
+    "latitude": "25.6100", 
+    "longitude": "85.1414", 
+    "region": "Bihar", 
+    "population": "1684222"
+    
+  }, 
+  {
+    "id": 23,
+    "name": "Ludhiāna", 
+    "latitude": "30.9083", 
+    "longitude": "75.8486", 
+    "region": "Punjab",
+    "population": "1649000"
+    
+  }, 
+  {
+    "id": 24,
+    "name": "Āgra", 
+    "latitude": "27.1800", 
+    "longitude": "78.0200", 
+    "region": "Uttar Pradesh",
+    "population": "1585705"
+    
+  }
+]
+
+  
