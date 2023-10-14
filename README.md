@@ -9,7 +9,7 @@ Responsive weather app made using React
 ### Installation Options
 
 ```
-$ git clone https://github.com/sinansarikaya/react-weather-app.git
+$ git clone https://github.com/Payal2000/Weather-React-App.git
 ```
 
 ```
@@ -23,7 +23,7 @@ $ npm start
 ### Or
 
 ```
-$ git clone https://github.com/sinansarikaya/react-weather-app.git
+$ git clone https://github.com/Payal2000/Weather-React-App.git
 ```
 
 ```
@@ -36,9 +36,3 @@ $ yarn start
 
 <hr />
 
-### Demo
-
-#### [View Demo](https://sinan-react-weather-app.netlify.app/)
-
-![Demo](./src/assets/desktop-design.gif)
-![Mobile Demo](./src/assets/mobile-design.gif)
